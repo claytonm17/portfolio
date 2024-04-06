@@ -63,6 +63,14 @@ h1 {
     padding: 5px 10px;
 }
 
+footer {
+    background-color: darkslateblue;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 /* Mobile first design */
 @media (max-width: 320px) {
 
